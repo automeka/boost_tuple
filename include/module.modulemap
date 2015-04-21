@@ -1,0 +1,6 @@
+module boost_tuple {
+  header "boost/tuple/detail/tuple_basic.hpp"
+  header "boost/tuple/tuple.hpp"
+  header "boost/tuple/tuple_comparison.hpp"
+  header "boost/tuple/tuple_io.hpp"
+}
